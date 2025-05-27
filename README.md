@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<h2>Este foi um projeto desenvolvido usando as técnicas usadas na <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Este foi um projeto desenvolvido usando as técnicas aprendidas no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
 <img src="https://github.com/Mauromoura81/Lorena-Cleaning/blob/main/SITE%20FAXINA/img/Design%20sem%20nome%20(1)%20(1).png?raw=true" alt="pc-celular" />
 <h2>Projeto responsivo onde foram usadas as seguintes tecnologias:</h2>
